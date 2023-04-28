@@ -1,17 +1,29 @@
+
 {
   "name": "lucky-genshin",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000L\u0000u\u0000c\u0000k\u0000y\u0000G\u0000e\u0000n\u0000s\u0000h\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankFang/frank-test-2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankFang/frank-test-2/issues"
+  },
+  "homepage": "https://github.com/FrankFang/frank-test-2#readme",
   "devDependencies": {
-    "typescript": "^5.0.4",
-    "webpack": "4.29.6",
-    "webpack-cli": "3.2.3"
+    "awesome-typescript-loader": "^5.2.1",
+    "html-webpack-plugin": "^3.2.0",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
   }
 }
